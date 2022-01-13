@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Eli Zarrindast.<br/>
 <br/>
 
-## About Me<br/>
+#### About Me:<br/>
 💾 data scientist: python, R, SQL <br/>
 🧮 pure mathematics academic background <br/>
 🗽 based in NYC & SF <br/>
 
-##  Reach Me <br/>
+####  Reach Me: <br/>
 📫 email me at eezarrindast@gmail.com <br/>
 💬 book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
 👯 PLEASE talk my ear off about your pet project! <br/>
