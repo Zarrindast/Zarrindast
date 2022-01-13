@@ -17,7 +17,7 @@ Welcome to my Github! </br>
 💖 [global & domestic terrorism](https://zarrindast.com/2017/02/20/centrality-in-worldwide-terror-networks-improved-graphics/), [school attacks](https://zarrindast.com/2019/05/16/project-overview-citation-networks-in-rampage-shootings/) <br/>
 
 ####  Reach Me: <br/>
-🔗  add me on [LinkedIn](https://www.linkedin.com/in/eli-zarrindast) 
+🔗  add me on [LinkedIn](https://www.linkedin.com/in/eli-zarrindast) <br/>
 📫 email @ eezarrindast@gmail.com <br/>
 💬 book a call @ [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
 👯 PLEASE tell me about yr pet project. Rubberduck me. Show me yr world! <br/>
