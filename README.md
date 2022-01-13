@@ -18,8 +18,8 @@ Welcome to my Github! </br>
 
 ####  Reach Me: <br/>
 🔗  add me on [LinkedIn](https://www.linkedin.com/in/eli-zarrindast) <br/>
-📫 email me at eezarrindast@gmail.com <br/>
-💬 book a call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
+📫 email me @ eezarrindast@gmail.com <br/>
+💬 book a call via [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
 👯 PLEASE tell me about yr pet project. Rubberduck me. Show me yr world! <br/>
 
 <!--
