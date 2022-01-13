@@ -1,5 +1,5 @@
-I'm Eli Zarrindast. 👋 Welcome to my Github! </br>
-[LinkedIn](https://www.linkedin.com/in/eli-zarrindast) <br/>
+I'm Eli Zarrindast ([LinkedIn](https://www.linkedin.com/in/eli-zarrindast)). 👋 <br/>
+Welcome to my Github! </br>
 
 
 #### About Me:<br/>
