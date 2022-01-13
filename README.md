@@ -4,19 +4,21 @@
 
 #### About Me:<br/>
 💾 data scientist: python, R, SQL <br/>
+🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), ML math, Alteryx
 🧮 pure math BA, MA Hunter College <br/>
-🗽 based in NYC & SF <br/>
+🗽 based in NYC & SF 🌉 <br/>
 
 #### Pet Topics: <br/>
+💖 large unstructured datasets <br/>
 💖 natural language processing <br/>
 💖 network modeling, analysis, visualization <br/>
 💖 social epidemiology, mathematical behavioral science <br/>
 💖 global & domestic terrorism, school attacks <br/>
 
 ####  Reach Me: <br/>
-📫 email me at eezarrindast@gmail.com <br/>
-💬 book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
-👯 PLEASE talk my ear off about your pet project! <br/>
+📫 email @ eezarrindast@gmail.com <br/>
+💬 book a call @ [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
+👯 PLEASE tell me about yr pet project for "no reason"! <br/>
 
 <!--
 **Zarrindast/Zarrindast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
