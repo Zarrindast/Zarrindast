@@ -1,17 +1,25 @@
-### Hi there 👋 My personal profile is under construction as of 01/12/22.
+### Hi there 👋 I'm Eli Zarrindast.
 
-In the meantime you can reach me at eezarrindast@gmail.com or book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general).
+## About Me
+💾 data scientist: python, R, SQL
+🧮 pure mathematics academic background 
+🗽 based in NYC & SF
+
+##  Reach Me
+📫 email me at eezarrindast@gmail.com
+💬 book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general)
+👯 PLEASE talk my ear off about your pet project! 
 
 <!--
 **Zarrindast/Zarrindast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+💿   🪐 ⏳
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+-  Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
