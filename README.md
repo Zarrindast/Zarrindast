@@ -14,7 +14,7 @@ I'm Eli Zarrindast. 👋 Welcome to my Github! </br>
 💖 natural language processing, social media data<br/>
 💖 network modeling, analysis, visualization <br/>
 💖 social epidemiology, mathematical behavioral science <br/>
-💖 [global & domestic terrorism](https://zarrindast.com/2017/02/20/centrality-in-worldwide-terror-networks-improved-graphics/), school attacks <br/>
+💖 [global & domestic terrorism](https://zarrindast.com/2017/02/20/centrality-in-worldwide-terror-networks-improved-graphics/), [school attacks](https://zarrindast.com/2019/05/16/project-overview-citation-networks-in-rampage-shootings/) <br/>
 
 ####  Reach Me: <br/>
 📫 email @ eezarrindast@gmail.com <br/>
