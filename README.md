@@ -1,14 +1,15 @@
-### Hi there 👋 I'm Eli Zarrindast.
+### Hi there 👋 I'm Eli Zarrindast.<br/>
+<br/>
 
-## About Me
-💾 data scientist: python, R, SQL
-🧮 pure mathematics academic background 
-🗽 based in NYC & SF
+## About Me<br/>
+💾 data scientist: python, R, SQL <br/>
+🧮 pure mathematics academic background <br/>
+🗽 based in NYC & SF <br/>
 
-##  Reach Me
-📫 email me at eezarrindast@gmail.com
-💬 book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general)
-👯 PLEASE talk my ear off about your pet project! 
+##  Reach Me <br/>
+📫 email me at eezarrindast@gmail.com <br/>
+💬 book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
+👯 PLEASE talk my ear off about your pet project! <br/>
 
 <!--
 **Zarrindast/Zarrindast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
