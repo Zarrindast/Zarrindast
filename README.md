@@ -1,4 +1,5 @@
 ### Welcome, I'm Eli Zarrindast! 👋<br/>
+(Check out my [blog](https://www.zarrindast.com) too!)
 
 #### About Me:<br/>
 💾 data scientist: python, R, SQL </br>
