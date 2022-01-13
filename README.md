@@ -1,14 +1,18 @@
 I'm Eli Zarrindast. 👋 Welcome to my Github! </br>
+[LinkedIn](https://www.linkedin.com/in/eli-zarrindast) <br/>
+
 
 #### About Me:<br/>
-💾 data scientist: python, R, SQL. [LinkedIn](https://www.linkedin.com/in/eli-zarrindast) <br/>
+💾 data scientist: python, R, SQL </br>
+ 10+ years teaching technical concepts to nontechnical audiences (bootcamps, classes, mentorship, etc.)<br/>
 🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), [machine learning](https://zarrindast.com/2021/11/09/highlights-from-my-library-hands-on-machine-learning-with-scikit-learn-keras-tensorflow-by-aurelien-geron/), Alteryx <br/>
-🧮 pure math BA, MA Hunter College <br/>
+🧮 pure math BA, MA, PhD coursework <br/>
 🗽 based in NYC & SF 🌉 <br/>
 
 #### Specialties: <br/>
+💖 mathematics, statistics, rigor! 
 💖 [large](https://zarrindast.com/2019/05/16/project-overview-citation-networks-in-rampage-shootings/)[unstructured](https://zarrindast.com/2019/07/21/beautiful-soup-pt-1-web-scraping-for-the-citation-networks-project/) [datasets](https://zarrindast.com/2019/09/27/shooter-citation-networks-project-pdfs-ocr-omg/) <br/>
-💖 natural language processing, esp. on raw social media scrapes<br/>
+💖 natural language processing, social media data<br/>
 💖 network modeling, analysis, visualization <br/>
 💖 social epidemiology, mathematical behavioral science <br/>
 💖 [global & domestic terrorism](https://zarrindast.com/2017/02/20/centrality-in-worldwide-terror-networks-improved-graphics/), school attacks <br/>
