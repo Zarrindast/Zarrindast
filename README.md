@@ -7,6 +7,12 @@
 🧮 pure math BA, MA Hunter College <br/>
 🗽 based in NYC & SF <br/>
 
+#### Pet Topics: <br/>
+💖 natural language processing <br/>
+💖 network modeling, analysis, visualization <br/>
+💖 social epidemiology, mathematical behavioral science <br/>
+💖 global & domestic terrorism, school attacks <br/>
+
 ####  Reach Me: <br/>
 📫 email me at eezarrindast@gmail.com <br/>
 💬 book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general) <br/>
