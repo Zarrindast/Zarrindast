@@ -4,7 +4,7 @@
 
 #### About Me:<br/>
 💾 data scientist: python, R, SQL <br/>
-🧮 math BA, MA Hunter College <br/>
+🧮 pure math BA, MA Hunter College <br/>
 🗽 based in NYC & SF <br/>
 
 ####  Reach Me: <br/>
