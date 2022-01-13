@@ -1,10 +1,9 @@
 ### Hi there 👋 </br>
 ### I'm Eli Zarrindast.<br/>
-<br/>
 
 #### About Me:<br/>
 💾 data scientist: python, R, SQL <br/>
-🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), ML math, Alteryx
+🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), ML math, Alteryx <br/>
 🧮 pure math BA, MA Hunter College <br/>
 🗽 based in NYC & SF 🌉 <br/>
 
