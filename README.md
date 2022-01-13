@@ -5,8 +5,8 @@ I'm Eli Zarrindast. 👋 Welcome to my Github! </br>
 #### About Me:<br/>
 💾 data scientist: python, R, SQL </br>
 🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), [machine learning](https://zarrindast.com/2021/11/09/highlights-from-my-library-hands-on-machine-learning-with-scikit-learn-keras-tensorflow-by-aurelien-geron/), Alteryx <br/>
-🧮 pure math BA, MA, PhD coursework <br/>
-🗽 based in NYC & SF 🌉 <br/>
+🧮 education: pure math BA, MA, PhD coursework <br/>
+🗽 based in: NYC, SF, remote 🌉 <br/>
 
 #### Specialties: <br/>
 💖 10+ yrs communicating technical content to nontechnical audiences<br/>
