@@ -1,4 +1,6 @@
-### Hi there 👋 This profile is under construction as of 01/12/22.
+### Hi there 👋 My personal profile is under construction as of 01/12/22.
+
+In the meantime you can reach me at eezarrindast@gmail.com or book a video call via my [Calendly](https://www.calendly.com/eli-zarrindast/meetings-general).
 
 <!--
 **Zarrindast/Zarrindast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
