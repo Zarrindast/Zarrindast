@@ -1,4 +1,4 @@
-I'm Eli Zarrindast ([LinkedIn](https://www.linkedin.com/in/eli-zarrindast)). 👋 <br/>
+I'm Eli Zarrindast. ([LinkedIn](https://www.linkedin.com/in/eli-zarrindast)) 👋 <br/>
 Welcome to my Github! </br>
 
 
