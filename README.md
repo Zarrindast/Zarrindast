@@ -1,6 +1,4 @@
-### I'm Eli Zarrindast. 👋<br/>
-### Welcome to my Github!</br>
-
+### Welcome, I'm Eli Zarrindast! 👋<br/>
 
 #### About Me:<br/>
 💾 data scientist: python, R, SQL </br>
