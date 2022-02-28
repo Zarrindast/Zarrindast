@@ -10,9 +10,9 @@
 #### Specialties: <br/>
 💖 10+ yrs communicating technical content to nontechnical audiences<br/>
 💖 wrangling and extracting stories from [large](https://zarrindast.com/2019/05/16/project-overview-citation-networks-in-rampage-shootings/) [unstructured](https://zarrindast.com/2019/07/21/beautiful-soup-pt-1-web-scraping-for-the-citation-networks-project/) [datasets](https://zarrindast.com/2019/09/27/shooter-citation-networks-project-pdfs-ocr-omg/) <br/>
+💖 data visualization, modeling, illustration for business impact  <br/>
 💖 natural language processing, social media data<br/>
-💖 network modeling, analysis, visualization <br/>
-💖 social epidemiology, mathematical behavioral science <br/>
+💖 social epidemiology, mathematical behavioral science, networks <br/>
 💖 [global & domestic terrorism](https://zarrindast.com/2017/02/20/centrality-in-worldwide-terror-networks-improved-graphics/), [school attacks](https://zarrindast.com/2019/05/16/project-overview-citation-networks-in-rampage-shootings/) <br/>
 
 ####  Reach Me: <br/>
