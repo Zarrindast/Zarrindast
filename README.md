@@ -1,4 +1,4 @@
-### Welcome, I'm Eli Zarrindast! 👋<br/>
+### Welcome, I'm Eli Zarrindast! 👋🏻<br/>
 (Check out my [blog](https://www.zarrindast.com) too!)
 
 #### About Me:<br/>
