@@ -3,7 +3,7 @@
 
 #### About Me:<br/>
 💾 data scientist: python, R, SQL </br>
-🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), [machine learning](https://zarrindast.com/2021/11/09/highlights-from-my-library-hands-on-machine-learning-with-scikit-learn-keras-tensorflow-by-aurelien-geron/), [Alteryx](https://www.alteryx.com/) <br/>
+🌱 growing in: [d3](https://codepen.io/zarrindast/pen/KKmGEpz), [machine learning](https://zarrindast.com/2021/11/09/highlights-from-my-library-hands-on-machine-learning-with-scikit-learn-keras-tensorflow-by-aurelien-geron/), [Tableau](https://www.tableau.com/) <br/>
 🧮 education: pure math BA, MA, PhD coursework <br/>
 🌎 based in: NYC, SF, remote <br/>
 
